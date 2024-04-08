@@ -1,4 +1,4 @@
-IPµÿ÷∑,Á´_,___Á´_,TLS,_∞Ê_‰∏_,_∞Â_,___,TCPÂª∂Ë_(ms),__∫¶(MB/s)
+IPÂú∞ÂùÄ,Á´ØÂè£,ÂõûÊ∫êÁ´ØÂè£,TLS,Êï∞ÊçÆ‰∏≠ÂøÉ,Âú∞Âå∫,ÂüéÂ∏Ç,TCPÂª∂Ëøü(ms),ÈÄüÂ∫¶(MB/s)
 104.16.121.247,443,443,FALSE,FRA,Europe,Frankfurt,169.37,19.02
 162.159.130.227,443,443,FALSE,NRT,Asia Pacific,Tokyo,158.41,18.49
 162.159.38.141,443,443,FALSE,NRT,Asia Pacific,Tokyo,166.55,18.36
@@ -1782,7 +1782,7 @@ IPµÿ÷∑,Á´_,___Á´_,TLS,_∞Ê_‰∏_,_∞Â_,___,TCPÂª∂Ë_(ms),__∫¶(MB/s)
 ,2095,0,FALSE,NRT,Asia Pacific,Tokyo,93,0.04
 ,80,0,FALSE,YYZ,North America,Toronto,336,0.04
 ,2082,0,FALSE,NRT,Asia Pacific,Tokyo,87,0.04
-,80,8080,FALSE,GRU,South America,S√£o Paulo,447,0.04
+,80,8080,FALSE,GRU,South America,SÏ∞æo Paulo,447,0.04
 ,8080,0,FALSE,NRT,Asia Pacific,Tokyo,85,0.04
 ,2052,0,FALSE,NRT,Asia Pacific,Tokyo,74,0.04
 ,2053,443,TRUE,NRT,Asia Pacific,Tokyo,71,0.04
@@ -1895,8 +1895,8 @@ IPµÿ÷∑,Á´_,___Á´_,TLS,_∞Ê_‰∏_,_∞Â_,___,TCPÂª∂Ë_(ms),__∫¶(MB/s)
 ,80,0,FALSE,SYD,Oceania,Sydney,92,0
 ,80,0,FALSE,YYZ,North America,Toronto,304,0
 ,80,0,FALSE,IAD,North America,Ashburn,358,0
-,80,0,FALSE,GRU,South America,S√£o Paulo,475,0
-,80,0,FALSE,YUL,North America,Montr√©al,172,0
+,80,0,FALSE,GRU,South America,SÏ∞æo Paulo,475,0
+,80,0,FALSE,YUL,North America,MontrÏ±ïal,172,0
 ,80,0,FALSE,NRT,Asia Pacific,Tokyo,142,0
 ,80,0,FALSE,AMS,Europe,Amsterdam,174,0
 ,80,0,FALSE,ICN,Asia Pacific,Seoul,112,0
